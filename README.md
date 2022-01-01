@@ -1,4 +1,13 @@
 # discord-tutorial-bot
-Tutorial bot
+**Tutorial bot Discord**
 
-Discord tutorial bot from Snowflake Studio ❄
+**Comming Soon...**
+- play
+- stop
+- queue
+- skip
+- pause
+- move
+- loop
+- volume
+- search
