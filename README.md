@@ -2,12 +2,12 @@
 **Tutorial bot Discord**
 
 **Packages to install**
-npm install
-npm install discord.js
-npm install fs
-npm install quick.db
-npm install snowflake-api
-npm install canvacord
+- npm install
+- npm install discord.js
+- npm install fs
+- npm install quick.db
+- npm install snowflake-api
+- npm install canvacord
 
 **Comming Soon...**
 - stop
@@ -18,21 +18,3 @@ npm install canvacord
 - loop
 - volume
 - search
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
