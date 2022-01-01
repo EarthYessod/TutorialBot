@@ -1,4 +1,4 @@
-# discord-tutorial-bot
+# Discord-Tutorial-Bot
 **Tutorial bot Discord**
 
 **Packages to install**
